@@ -61,4 +61,5 @@ Once Firecrawl has turned a site into markdown, a common next step is to generat
 
 [Try Synexa - one API for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=firecrawl-api&utm_content=readme-top&utm_term=tier-r)
 
+
 _Last reviewed: 2026-09-22_
