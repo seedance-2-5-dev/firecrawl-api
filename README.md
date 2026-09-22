@@ -60,3 +60,5 @@ The [pricing page](https://www.firecrawl.dev/pricing) is the source of truth; at
 Once Firecrawl has turned a site into markdown, a common next step is to generate assets from that content: product images, short video, voice-over. [Synexa](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=firecrawl-api&utm_content=readme-top&utm_term=tier-r) hosts FLUX, video and audio models behind one REST endpoint with a Python SDK and bills per run, so a scrape-then-generate pipeline needs two keys and no GPU.
 
 [Try Synexa - one API for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=firecrawl-api&utm_content=readme-top&utm_term=tier-r)
+
+_Last reviewed: 2026-09-22_
